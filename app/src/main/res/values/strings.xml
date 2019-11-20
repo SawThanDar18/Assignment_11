@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Firebase_Auth</string>
+
+    <!--activity_main-->
+    <string name="lbl1">USERNAME</string>
+    <string name="lbl2">sawthandar@gmail.com</string>
+    <string name="lbl3">PASSWORD</string>
+    <string name="lbl4">.........</string>
+    <string name="lbl5">Forgot Password?</string>
+    <string name="lbl6">LOGIN</string>
+    <string name="lbl7">OR CONNECT WITH</string>
+    <string name="lbl8">FACEBOOK</string>
+    <string name="lbl9">GOOGLE</string>
+
+    <!--detail_activity-->
+    <string name="detail_lbl1">Saw ThanDar</string>
+    <string name="detail_lbl2">sawthandar@gmail.com</string>
+
+</resources>
