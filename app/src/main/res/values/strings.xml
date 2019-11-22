@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Firebase_Auth</string>
 
-    <!--activity_main-->
+    <!--activity_login-->
     <string name="lbl1">USERNAME</string>
     <string name="lbl2">sawthandar@gmail.com</string>
     <string name="lbl3">PASSWORD</string>
@@ -11,9 +11,23 @@
     <string name="lbl7">OR CONNECT WITH</string>
     <string name="lbl8">FACEBOOK</string>
     <string name="lbl9">GOOGLE</string>
+    <string name="lbl10">Do not have an account, sign up!!</string>
+    <string name="lbl11">Sign Up</string>
+    <string name="lbl12">Already have an account? Login!</string>
+    <string name="lbl13">EMAIL</string>
+    <string name="lbl14">Saw ThanDar</string>
+    <string name="lbl15">LOG OUT</string>
+    <string name="lbl16">SEND</string>
+    <string name="lbl17">Reset Password</string>
 
     <!--detail_activity-->
     <string name="detail_lbl1">Saw ThanDar</string>
     <string name="detail_lbl2">sawthandar@gmail.com</string>
+
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Cancel</string>
+
+    <string name="facebook_app_id">1221580894709839</string>
+    <string name="fb_login_protocol_scheme">fb1221580894709839</string>
 
 </resources>
